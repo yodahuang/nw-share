@@ -1,0 +1,13 @@
+{
+  "name": "nw-file-server",
+  "version": "1.0.0",
+  "description": "A simple file server",
+  "scripts": {
+    "start": "http-server ../downloads"
+  },
+  "author": "Yanda Huang",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
